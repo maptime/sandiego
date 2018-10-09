@@ -9,10 +9,11 @@ image: public-square-coffee-house.png
 
 #Geobreakfast in San Diego?  Why not.  Friday, Oct 12 @ 8 am. Public Square Coffee House, 8278 La Mesa Blvd, La Mesa.  MTS Trolley stop is steps away.  #GeobreakfastSAN
 
-*What*: A start your day with a Geobreakfast.  Meet others interested in Geo.  Nothing fancy.
-*Where*: Public Square Coffee House, 8278 La Mesa Blvd, La Mesa, CA  91942
-*Transit*:  MTS Trolley stop = "La Mesa Boulevard"
-*When*: 8 am, Friday, October 12, 2018
+What/Where/When
+* *What*: Start your day with a Geobreakfast.  Meet others interested in Geo.  Nothing fancy.
+* *Where*: Public Square Coffee House, 8278 La Mesa Blvd, La Mesa, CA  91942
+* *Transit*:  MTS Trolley stop = "La Mesa Boulevard"
+* *When*: 8 am, Friday, October 12, 2018
 <br>
 
 *Local Logistics / Web Maps*:
