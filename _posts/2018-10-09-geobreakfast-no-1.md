@@ -18,4 +18,4 @@ image: public-square-coffee-house.png
 
  ---
 
- ![](sandiego/img/public-square-coffee-house.png)
+ ![](/sandiego/img/public-square-coffee-house.png)
