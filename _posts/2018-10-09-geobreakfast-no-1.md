@@ -2,6 +2,7 @@
 layout: event
 category: event
 title: #Geobreakfast #1
+rsvp:  https://twitter.com/maptimesd
 image: public-square-coffee-house.png
 ---
 
