@@ -1,7 +1,8 @@
 ---
 layout: event
 category: event
-title: #Geobreakfast #1
+title: Geobreakfast #1
+date:  Friday, Oct 12, 2018 @ 8 am
 rsvp:  https://twitter.com/maptimesd
 image: public-square-coffee-house.png
 ---
